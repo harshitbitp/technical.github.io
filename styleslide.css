@@ -96,7 +96,7 @@ input[name="r"]{
   transform: translate(-50%,-50%);
 }
 }
-@media all and (min-width: 368px) and (max-width: 385px){
+@media all and (min-width: 366px) and (max-width: 385px){
    .slidershow{
   width: 300px;
 
@@ -110,7 +110,7 @@ input[name="r"]{
 }
 }
 
-@media all and (min-width: 399px) and (max-width: 499px){
+@media all and (min-width: 386px) and (max-width: 499px){
    .slidershow{
   width: 300px;
 
